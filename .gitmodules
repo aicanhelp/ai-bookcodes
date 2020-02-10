@@ -4,3 +4,15 @@
 [submodule "resources/handson-ml"]
 	path = resources/handson-ml
 	url = https://github.com/ageron/handson-ml.git
+[submodule "resources/lihang"]
+	path = resources/lihang
+	url = https://github.com/fengdu78/lihang-code.git
+[submodule "resources/nlp-tf"]
+	path = resources/nlp-tf
+	url = https://github.com/PacktPublishing/Natural-Language-Processing-with-Tensorflow
+[submodule "resources/dl-python"]
+	path = resources/dl-python
+	url = https://github.com/fchollet/deep-learning-with-python-notebooks.git
+[submodule "resources/nlp-pytorch"]
+	path = resources/nlp-pytorch
+	url = https://github.com/joosthub/PyTorchNLPBook.git
