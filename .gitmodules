@@ -16,3 +16,12 @@
 [submodule "resources/nlp-pytorch"]
 	path = resources/nlp-pytorch
 	url = https://github.com/joosthub/PyTorchNLPBook.git
+[submodule "resources/ml_cn"]
+	path = resources/ml_cn
+	url = https://github.com/manji1992/ml_cn_book_code.git
+[submodule "resources/d2l_pytorch"]
+	path = resources/d2l_pytorch
+	url = https://github.com/ShusenTang/Dive-into-DL-PyTorch.git
+[submodule "resources/ml-python"]
+	path = resources/ml-python
+	url = https://github.com/susanli2016/Machine-Learning-with-Python.git
