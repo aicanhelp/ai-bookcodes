@@ -25,3 +25,6 @@
 [submodule "resources/ml-python"]
 	path = resources/ml-python
 	url = https://github.com/susanli2016/Machine-Learning-with-Python.git
+[submodule "resources/pml3ed"]
+	path = resources/pml3ed
+	url = https://github.com/rasbt/python-machine-learning-book-3rd-edition.git
