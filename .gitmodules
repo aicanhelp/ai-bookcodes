@@ -28,3 +28,6 @@
 [submodule "resources/pml3ed"]
 	path = resources/pml3ed
 	url = https://github.com/rasbt/python-machine-learning-book-3rd-edition.git
+[submodule "resources/introduction_to_ml_with_python"]
+	path = resources/introduction_to_ml_with_python
+	url = https://github.com/amueller/introduction_to_ml_with_python.git
