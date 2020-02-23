@@ -1,33 +1,44 @@
 [submodule "handson-ml"]
 	path = handson-ml
 	url = https://github.com/ageron/handson-ml.git
+	ignore = all
 [submodule "resources/handson-ml"]
 	path = resources/handson-ml
 	url = https://github.com/ageron/handson-ml.git
+	ignore = all
 [submodule "resources/lihang"]
 	path = resources/lihang
 	url = https://github.com/fengdu78/lihang-code.git
+	ignore = all
 [submodule "resources/nlp-tf"]
 	path = resources/nlp-tf
 	url = https://github.com/PacktPublishing/Natural-Language-Processing-with-Tensorflow
+	ignore = all
 [submodule "resources/dl-python"]
 	path = resources/dl-python
 	url = https://github.com/fchollet/deep-learning-with-python-notebooks.git
+	ignore = all
 [submodule "resources/nlp-pytorch"]
 	path = resources/nlp-pytorch
 	url = https://github.com/joosthub/PyTorchNLPBook.git
+	ignore = all
 [submodule "resources/ml_cn"]
 	path = resources/ml_cn
 	url = https://github.com/manji1992/ml_cn_book_code.git
+	ignore = all
 [submodule "resources/d2l_pytorch"]
 	path = resources/d2l_pytorch
 	url = https://github.com/ShusenTang/Dive-into-DL-PyTorch.git
+	ignore = all
 [submodule "resources/ml-python"]
 	path = resources/ml-python
 	url = https://github.com/susanli2016/Machine-Learning-with-Python.git
+	ignore = all
 [submodule "resources/pml3ed"]
 	path = resources/pml3ed
 	url = https://github.com/rasbt/python-machine-learning-book-3rd-edition.git
+	ignore = all
 [submodule "resources/introduction_to_ml_with_python"]
 	path = resources/introduction_to_ml_with_python
 	url = https://github.com/amueller/introduction_to_ml_with_python.git
+	ignore = all
