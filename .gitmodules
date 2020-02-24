@@ -42,3 +42,6 @@
 	path = resources/introduction_to_ml_with_python
 	url = https://github.com/amueller/introduction_to_ml_with_python.git
 	ignore = all
+[submodule "resources/pydata-book"]
+	path = resources/pydata-book
+	url = https://github.com/wesm/pydata-book.git
