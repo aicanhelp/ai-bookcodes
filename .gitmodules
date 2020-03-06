@@ -45,3 +45,6 @@
 [submodule "resources/pydata-book"]
 	path = resources/pydata-book
 	url = https://github.com/wesm/pydata-book.git
+[submodule "resources/pytorch-book"]
+	path = resources/pytorch-book
+	url = https://github.com/chenyuntc/pytorch-book.git
