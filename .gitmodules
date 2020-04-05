@@ -48,3 +48,9 @@
 [submodule "resources/pytorch-book"]
 	path = resources/pytorch-book
 	url = https://github.com/chenyuntc/pytorch-book.git
+[submodule "resources/tensorflow-21ex"]
+	path = resources/tensorflow-21ex
+	url = https://github.com/hzy46/Deep-Learning-21-Examples.git
+[submodule "resources/nltk-examples"]
+	path = resources/nltk-examples
+	url = https://github.com/sujitpal/nltk-examples.git
