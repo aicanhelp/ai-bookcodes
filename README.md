@@ -1,7 +1,4 @@
 # ai-bookcodes
 
-1. handson-ml  
-<<Hands-on Machine Learning with Scikit-Learn and TensorFlow>>
- from: https://github.com/ageron/handson-ml.git
- 
-2. 
+1. Directory 'resources' is for holding the original codes of books
+2. Directory 'content' is for the codes of myself 
