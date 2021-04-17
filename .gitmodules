@@ -54,3 +54,9 @@
 [submodule "resources/nltk-examples"]
 	path = resources/nltk-examples
 	url = https://github.com/sujitpal/nltk-examples.git
+[submodule "resources/csapp-labs"]
+	path = resources/csapp-labs
+	url = https://github.com/Exely/CSAPP-Labs.git
+[submodule "resources/csapp-labs2"]
+	path = resources/csapp-labs2
+	url = https://github.com/Zhenye-Na/CSAPP-Labs.git
