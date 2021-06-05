@@ -60,3 +60,6 @@
 [submodule "resources/csapp-labs2"]
 	path = resources/csapp-labs2
 	url = https://github.com/Zhenye-Na/CSAPP-Labs.git
+[submodule "resources/programming-in-c"]
+	path = resources/programming-in-c
+	url = https://github.com/tendoasan/ProgrammingInC.git

@@ -12,3 +12,4 @@ class BinarySplitSearch:
             else:
                 start = mid
         return -1
+
