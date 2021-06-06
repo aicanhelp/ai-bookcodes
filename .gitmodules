@@ -66,3 +66,6 @@
 [submodule "resources/cmake-cookbook"]
 	path = resources/cmake-cookbook
 	url = https://github.com/dev-cafe/cmake-cookbook.git
+[submodule "resources/cpp-primer-5th"]
+	path = resources/cpp-primer-5th
+	url = https://github.com/Veinin/cpp-primer-5th-edition.git
