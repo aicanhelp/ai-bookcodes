@@ -63,3 +63,6 @@
 [submodule "resources/programming-in-c"]
 	path = resources/programming-in-c
 	url = https://github.com/tendoasan/ProgrammingInC.git
+[submodule "resources/cmake-cookbook"]
+	path = resources/cmake-cookbook
+	url = https://github.com/dev-cafe/cmake-cookbook.git
