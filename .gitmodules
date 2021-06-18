@@ -69,3 +69,6 @@
 [submodule "resources/cpp-primer-5th"]
 	path = resources/cpp-primer-5th
 	url = https://github.com/Veinin/cpp-primer-5th-edition.git
+[submodule "resources/jni-examples"]
+	path = resources/jni-examples
+	url = https://github.com/leeowenowen/jni-examples.git
