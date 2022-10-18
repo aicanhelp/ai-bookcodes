@@ -1,0 +1,3 @@
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/cmake-build-debug/CMakeFiles/advanced_compiler.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/cmake-build-debug/CMakeFiles/rebuild_cache.dir

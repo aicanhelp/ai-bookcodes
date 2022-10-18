@@ -1,0 +1,5 @@
+# ninja log v5
+18	39	1658927380909589500	advanced_compiler	66fcbf055d3df7dd
+0	17	1658927380888384300	CMakeFiles/advanced_compiler.dir/main.c.o	635bd9e43eba60af
+0	22	1660455795426199000	build.ninja	2b2385e6c6061a18
+0	21	1658926819806357000	CMakeFiles/advanced_compiler.dir/function.c.o	f11dd09f499151e4

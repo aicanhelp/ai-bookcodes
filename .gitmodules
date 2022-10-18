@@ -72,3 +72,6 @@
 [submodule "resources/jni-examples"]
 	path = resources/jni-examples
 	url = https://github.com/leeowenowen/jni-examples.git
+[submodule "resources/cppstdlib"]
+	path = resources/cppstdlib
+	url = https://github.com/iZhangHui/cppstdlib.git
