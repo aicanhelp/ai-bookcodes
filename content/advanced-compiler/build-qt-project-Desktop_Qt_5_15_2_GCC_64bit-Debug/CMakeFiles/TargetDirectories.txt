@@ -1,0 +1,9 @@
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/qt-project.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/edit_cache.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/rebuild_cache.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/list_install_components.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/local.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/install/strip.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/qt-project_autogen_timestamp_deps.dir
+/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/CMakeFiles/qt-project_autogen.dir

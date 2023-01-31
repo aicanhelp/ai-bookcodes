@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9a3edde16b81e74c75af.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt-project",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-project::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-project-Debug-4057d5fb92d8b55a155d.json",
+					"name" : "qt-project",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-project_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-project_autogen-Debug-478e319af6e75e72ea48.json",
+					"name" : "qt-project_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt-project_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt-project_autogen_timestamp_deps-Debug-ddfc2362b00fcf313820.json",
+					"name" : "qt-project_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug",
+		"source" : "/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/qt-project"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

@@ -1,0 +1,9 @@
+# ninja log v5
+0	188	1666358111081879300	qt-project_autogen/timestamp	7e2369d5be644104
+0	188	1666358111081879300	qt-project_autogen/mocs_compilation.cpp	7e2369d5be644104
+0	188	1666358111081879300	/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/qt-project_autogen/timestamp	7e2369d5be644104
+0	188	1666358111081879300	/home/modongsong/workspace/github-aican/ai-bookcodes/content/advanced-compiler/build-qt-project-Desktop_Qt_5_15_2_GCC_64bit-Debug/qt-project_autogen/mocs_compilation.cpp	7e2369d5be644104
+189	1310	1666358112211335800	CMakeFiles/qt-project.dir/main.cpp.o	3f819fff21af4c41
+189	1437	1666358112337759400	CMakeFiles/qt-project.dir/mainwindow.cpp.o	842a78b837135de0
+189	2018	1666358112919889800	CMakeFiles/qt-project.dir/qt-project_autogen/mocs_compilation.cpp.o	4e24c3d175ef74a5
+2019	2305	1666358113204475800	qt-project	905eb84d1d7fe01
